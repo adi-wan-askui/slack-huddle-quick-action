@@ -1,0 +1,23 @@
+{
+  "name": "slack-huddle-quick-action",
+  "version": "1.0.0",
+  "description": "Huddling a person on Slack using askui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi-wan-askui/slack-huddle-quick-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi-wan-askui/slack-huddle-quick-action/issues"
+  },
+  "homepage": "https://github.com/adi-wan-askui/slack-huddle-quick-action#readme",
+  "dependencies": {
+    "askui": "^0.2.2"
+  }
+}
